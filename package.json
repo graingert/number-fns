@@ -1,0 +1,12 @@
+{
+  "name": "number-fns",
+  "version": "0.0.1",
+  "description": "Modern JavaScript number utility library",
+  "main": "index.js",
+  "repository": "git@github.com:graingert/number-fns.git",
+  "author": "Thomas Grainger <tom@procensus.com>",
+  "license": "MIT",
+  "dependencies": {
+    "numeral": "^2.0.6"
+  }
+}
